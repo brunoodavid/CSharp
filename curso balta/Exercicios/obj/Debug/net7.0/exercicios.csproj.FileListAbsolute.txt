@@ -1,0 +1,30 @@
+c:\Users\bruno\Desktop\CSharp\exercicios\bin\Debug\net7.0\exercicios.exe
+c:\Users\bruno\Desktop\CSharp\exercicios\bin\Debug\net7.0\exercicios.deps.json
+c:\Users\bruno\Desktop\CSharp\exercicios\bin\Debug\net7.0\exercicios.runtimeconfig.json
+c:\Users\bruno\Desktop\CSharp\exercicios\bin\Debug\net7.0\exercicios.dll
+c:\Users\bruno\Desktop\CSharp\exercicios\bin\Debug\net7.0\exercicios.pdb
+c:\Users\bruno\Desktop\CSharp\exercicios\obj\Debug\net7.0\exercicios.csproj.AssemblyReference.cache
+c:\Users\bruno\Desktop\CSharp\exercicios\obj\Debug\net7.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bruno\Desktop\CSharp\exercicios\obj\Debug\net7.0\exercicios.AssemblyInfoInputs.cache
+c:\Users\bruno\Desktop\CSharp\exercicios\obj\Debug\net7.0\exercicios.AssemblyInfo.cs
+c:\Users\bruno\Desktop\CSharp\exercicios\obj\Debug\net7.0\exercicios.csproj.CoreCompileInputs.cache
+c:\Users\bruno\Desktop\CSharp\exercicios\obj\Debug\net7.0\exercicios.dll
+c:\Users\bruno\Desktop\CSharp\exercicios\obj\Debug\net7.0\refint\exercicios.dll
+c:\Users\bruno\Desktop\CSharp\exercicios\obj\Debug\net7.0\exercicios.pdb
+c:\Users\bruno\Desktop\CSharp\exercicios\obj\Debug\net7.0\exercicios.genruntimeconfig.cache
+c:\Users\bruno\Desktop\CSharp\exercicios\obj\Debug\net7.0\ref\exercicios.dll
+c:\Users\bruno\Desktop\CSharp\curso balta\exercicios\bin\Debug\net7.0\exercicios.exe
+c:\Users\bruno\Desktop\CSharp\curso balta\exercicios\bin\Debug\net7.0\exercicios.deps.json
+c:\Users\bruno\Desktop\CSharp\curso balta\exercicios\bin\Debug\net7.0\exercicios.runtimeconfig.json
+c:\Users\bruno\Desktop\CSharp\curso balta\exercicios\bin\Debug\net7.0\exercicios.dll
+c:\Users\bruno\Desktop\CSharp\curso balta\exercicios\bin\Debug\net7.0\exercicios.pdb
+c:\Users\bruno\Desktop\CSharp\curso balta\exercicios\obj\Debug\net7.0\exercicios.csproj.AssemblyReference.cache
+c:\Users\bruno\Desktop\CSharp\curso balta\exercicios\obj\Debug\net7.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bruno\Desktop\CSharp\curso balta\exercicios\obj\Debug\net7.0\exercicios.AssemblyInfoInputs.cache
+c:\Users\bruno\Desktop\CSharp\curso balta\exercicios\obj\Debug\net7.0\exercicios.AssemblyInfo.cs
+c:\Users\bruno\Desktop\CSharp\curso balta\exercicios\obj\Debug\net7.0\exercicios.csproj.CoreCompileInputs.cache
+c:\Users\bruno\Desktop\CSharp\curso balta\exercicios\obj\Debug\net7.0\exercicios.dll
+c:\Users\bruno\Desktop\CSharp\curso balta\exercicios\obj\Debug\net7.0\refint\exercicios.dll
+c:\Users\bruno\Desktop\CSharp\curso balta\exercicios\obj\Debug\net7.0\exercicios.pdb
+c:\Users\bruno\Desktop\CSharp\curso balta\exercicios\obj\Debug\net7.0\exercicios.genruntimeconfig.cache
+c:\Users\bruno\Desktop\CSharp\curso balta\exercicios\obj\Debug\net7.0\ref\exercicios.dll

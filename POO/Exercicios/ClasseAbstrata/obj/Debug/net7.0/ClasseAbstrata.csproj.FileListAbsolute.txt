@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\CSharp\POO\Exercicios\ClasseAbstrata\bin\Debug\net7.0\ClasseAbstrata.exe
+C:\Users\bruno\Desktop\CSharp\POO\Exercicios\ClasseAbstrata\bin\Debug\net7.0\ClasseAbstrata.deps.json
+C:\Users\bruno\Desktop\CSharp\POO\Exercicios\ClasseAbstrata\bin\Debug\net7.0\ClasseAbstrata.runtimeconfig.json
+C:\Users\bruno\Desktop\CSharp\POO\Exercicios\ClasseAbstrata\bin\Debug\net7.0\ClasseAbstrata.dll
+C:\Users\bruno\Desktop\CSharp\POO\Exercicios\ClasseAbstrata\bin\Debug\net7.0\ClasseAbstrata.pdb
+C:\Users\bruno\Desktop\CSharp\POO\Exercicios\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\CSharp\POO\Exercicios\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\CSharp\POO\Exercicios\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\CSharp\POO\Exercicios\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.AssemblyInfo.cs
+C:\Users\bruno\Desktop\CSharp\POO\Exercicios\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\CSharp\POO\Exercicios\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.dll
+C:\Users\bruno\Desktop\CSharp\POO\Exercicios\ClasseAbstrata\obj\Debug\net7.0\refint\ClasseAbstrata.dll
+C:\Users\bruno\Desktop\CSharp\POO\Exercicios\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.pdb
+C:\Users\bruno\Desktop\CSharp\POO\Exercicios\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.genruntimeconfig.cache
+C:\Users\bruno\Desktop\CSharp\POO\Exercicios\ClasseAbstrata\obj\Debug\net7.0\ref\ClasseAbstrata.dll

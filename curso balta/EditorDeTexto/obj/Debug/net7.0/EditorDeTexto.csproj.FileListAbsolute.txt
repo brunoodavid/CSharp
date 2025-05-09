@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\CSharp\curso balta\EditorDeTexto\bin\Debug\net7.0\EditorDeTexto.exe
+C:\Users\bruno\Desktop\CSharp\curso balta\EditorDeTexto\bin\Debug\net7.0\EditorDeTexto.deps.json
+C:\Users\bruno\Desktop\CSharp\curso balta\EditorDeTexto\bin\Debug\net7.0\EditorDeTexto.runtimeconfig.json
+C:\Users\bruno\Desktop\CSharp\curso balta\EditorDeTexto\bin\Debug\net7.0\EditorDeTexto.dll
+C:\Users\bruno\Desktop\CSharp\curso balta\EditorDeTexto\bin\Debug\net7.0\EditorDeTexto.pdb
+C:\Users\bruno\Desktop\CSharp\curso balta\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\CSharp\curso balta\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\CSharp\curso balta\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\CSharp\curso balta\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.AssemblyInfo.cs
+C:\Users\bruno\Desktop\CSharp\curso balta\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\CSharp\curso balta\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.dll
+C:\Users\bruno\Desktop\CSharp\curso balta\EditorDeTexto\obj\Debug\net7.0\refint\EditorDeTexto.dll
+C:\Users\bruno\Desktop\CSharp\curso balta\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.pdb
+C:\Users\bruno\Desktop\CSharp\curso balta\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.genruntimeconfig.cache
+C:\Users\bruno\Desktop\CSharp\curso balta\EditorDeTexto\obj\Debug\net7.0\ref\EditorDeTexto.dll
