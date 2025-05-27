@@ -1,1 +1,1 @@
-﻿CriarArquivoComWriter();
+﻿UsarStreamDeEntrada();
